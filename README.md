@@ -1,2 +1,2 @@
 # discord_crack
-crack cua discord
+discord theme 
